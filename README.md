@@ -1,2 +1,2 @@
-# album
-动感相册
+# paging
+jQuery带搜索跳转分页代码
